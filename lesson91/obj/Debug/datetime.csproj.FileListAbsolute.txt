@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\lesson91\lesson91\bin\Debug\lesson91.exe
+C:\Users\opilane\Desktop\lesson91\lesson91\bin\Debug\lesson91.pdb
+C:\Users\opilane\Desktop\lesson91\lesson91\obj\Debug\datetime.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\lesson91\lesson91\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson91\lesson91\obj\Debug\lesson91.exe
+C:\Users\opilane\Desktop\lesson91\lesson91\obj\Debug\lesson91.pdb

@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\lesson91\MyList\bin\Debug\MyList.exe
+C:\Users\opilane\Desktop\lesson91\MyList\bin\Debug\MyList.pdb
+C:\Users\opilane\Desktop\lesson91\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\lesson91\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson91\MyList\obj\Debug\MyList.exe
+C:\Users\opilane\Desktop\lesson91\MyList\obj\Debug\MyList.pdb
